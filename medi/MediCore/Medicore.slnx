@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Medi_Application/Medi_Application.csproj" />
+  <Project Path="../Medi_Domain/Medi_Domain.csproj" />
+  <Project Path="../Medi_Infrastructure/Medi_Infrastructure.csproj" />
+  <Project Path="Medicore.csproj" />
+</Solution>
