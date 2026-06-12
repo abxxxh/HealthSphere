@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mygIGmi4LC4=",
+  "dgSpecHash": "stNzDerg884=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bhuvanesh\\source\\repos\\Medi_Application\\Medi_Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ABINESH\\OneDrive\\Desktop\\HMS-PROJECT\\medi\\Medi_Application\\Medi_Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ABINESH\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512"
+  ],
   "logs": []
 }
