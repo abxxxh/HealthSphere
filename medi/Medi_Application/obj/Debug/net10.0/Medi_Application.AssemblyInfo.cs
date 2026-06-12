@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Medi_Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a74804c0f3c9d44c4ba1779e693f8e9e5fc233df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bf58ed75af142d3ae5de1ec35a1a8a0d43315b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Medi_Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Medi_Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
