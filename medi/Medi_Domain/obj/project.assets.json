@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Bhuvanesh\\.nuget\\packages\\": {},
+    "C:\\Users\\ABINESH\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bhuvanesh\\source\\repos\\Medi_Domain\\Medi_Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ABINESH\\OneDrive\\Desktop\\HMS-PROJECT\\medi\\Medi_Domain\\Medi_Domain.csproj",
       "projectName": "Medi_Domain",
-      "projectPath": "C:\\Users\\Bhuvanesh\\source\\repos\\Medi_Domain\\Medi_Domain.csproj",
-      "packagesPath": "C:\\Users\\Bhuvanesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bhuvanesh\\source\\repos\\Medi_Domain\\obj\\",
+      "projectPath": "C:\\Users\\ABINESH\\OneDrive\\Desktop\\HMS-PROJECT\\medi\\Medi_Domain\\Medi_Domain.csproj",
+      "packagesPath": "C:\\Users\\ABINESH\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ABINESH\\OneDrive\\Desktop\\HMS-PROJECT\\medi\\Medi_Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Bhuvanesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ABINESH\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -74,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
